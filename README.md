@@ -1,2 +1,5 @@
 # LeetCode
-Exercises from leetcode.com
+Exercises from https://leetcode.com/
+
+Languages: 
+JavaScript
